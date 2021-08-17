@@ -1,0 +1,19 @@
+.blog_grid {
+  border-width: 3px;
+  border-style: solid;
+  border-color: red;
+  border-radius: 8px;
+  padding: 5px;
+  width: 480px;
+  height: 330px;
+  justify-content: flex-start;
+}
+
+.blog_grid h3 {
+  padding: 0px;
+  margin: 0px;
+}
+
+.blog_grid p {
+  margin-top: -4px;
+}
