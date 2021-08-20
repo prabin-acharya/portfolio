@@ -5,10 +5,12 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  height: 100vh;
+
+  border: 3px solid blue;
 }
 
 .main {
+  border: 3px solid green;
   padding: 5rem 0;
   flex: 1;
   display: flex;

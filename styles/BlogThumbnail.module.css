@@ -1,19 +1,20 @@
-.blog_grid {
+.thumbanil {
   border-width: 3px;
   border-style: solid;
   border-color: red;
   border-radius: 8px;
   padding: 5px;
-  width: 480px;
-  height: 330px;
+  margin: 10px;
+  width: 420px;
+  height: 280px;
   justify-content: flex-start;
 }
 
-.blog_grid h3 {
+.thumbanil h3 {
   padding: 0px;
   margin: 0px;
 }
 
-.blog_grid p {
+.thumbanil p {
   margin-top: -4px;
 }

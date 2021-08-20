@@ -1,4 +1,7 @@
 import Head from "next/head";
+import About from "../components/About";
+import Blogs from "../components/Blogs";
+import Projects from "../components/Projects";
 
 export default function Home() {
   return (
@@ -6,7 +9,9 @@ export default function Home() {
       <Head>
         <title>Prabin Acharya</title>
       </Head>
-      <h1>Prabin Acharya</h1>
+      <About />
+      <Blogs />
+      <Projects />
     </div>
   );
 }

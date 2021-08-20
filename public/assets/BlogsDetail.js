@@ -2,7 +2,7 @@ const blogs = [
   {
     title: "Just Do IT",
     topic:
-      "Ok, here goes my first blog.I am trying to write about my experience as a self-taught developer...",
+      "Ok, here goes my first blog.I am trying to write about my experience as a self-taught...",
     img: "/../public/assets/code1.jpg",
     alt: "Code1 image VSCode",
   },
