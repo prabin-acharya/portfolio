@@ -8,6 +8,8 @@ const Blogs = () => {
   return (
     <>
       <h2>Blogs</h2>
+      This is a place where I put my thoughts into words and share something I
+      learnt or built.
       <div className={blogsStyles.blogs}>
         <BlogThumbnail blog={blogs[0]} />
         <BlogThumbnail blog={blogs[1]} />

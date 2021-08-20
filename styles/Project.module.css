@@ -1,0 +1,33 @@
+.project {
+  border-radius: 10px;
+  margin-bottom: 50px;
+  padding: 50px 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 18px;
+}
+.project:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(3, 180, 250, 0.19);
+  cursor: pointer;
+}
+
+.img {
+  border-radius: 5px;
+}
+
+.description {
+  max-width: 65%;
+  margin-left: 40px;
+  margin-top: 0px;
+}
+
+.description p {
+  margin-top: 0px;
+}
+
+.description p h2 {
+  margin: 0px;
+}

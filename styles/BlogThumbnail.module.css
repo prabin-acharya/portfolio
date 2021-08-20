@@ -1,20 +1,27 @@
 .thumbanil {
-  border-width: 3px;
-  border-style: solid;
-  border-color: red;
+  /* border: 3px solid rosybrown; */
   border-radius: 8px;
   padding: 5px;
-  margin: 10px;
+  margin: 0px 10px;
   width: 420px;
   height: 280px;
   justify-content: flex-start;
 }
 
+.thumbanil:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  cursor: pointer;
+}
+
 .thumbanil h3 {
-  padding: 0px;
-  margin: 0px;
+  padding: 2px;
+  margin: 2px;
 }
 
 .thumbanil p {
   margin-top: -4px;
+}
+
+.img {
+  border-radius: 6px;
 }

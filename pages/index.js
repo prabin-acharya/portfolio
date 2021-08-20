@@ -12,6 +12,17 @@ export default function Home() {
       <About />
       <Blogs />
       <Projects />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
     </div>
   );
 }
