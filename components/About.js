@@ -14,7 +14,7 @@ const About = () => {
           <br /> developing products that are user-friendly and delight to use.
           <br />
           <br />
-          I am passionate about Full Stack and I enjoying learning new things.
+          I am passionate about Full Stack and I enjoy learning new things.
           Right now,
           <br />I am enjoying JavaScript and Python and learning Java.
           <br />
@@ -24,7 +24,8 @@ const About = () => {
           <br />
           stories and music♫(Bob Dylan❤️).
           <br />
-          If any of these things interest you too, I'd love to chat!
+          <br />
+          If any of these things interests you too, I'd love to chat!
         </p>
 
         <Image
