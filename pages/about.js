@@ -10,7 +10,7 @@ const about = () => {
       {/* <Header /> */}
       <h3>Prabin Acharya</h3>
       <p>
-        Hey👋 ,I'm <strong>Prabin</strong>
+        Hey👋 ,I&apos;m <strong>Prabin</strong>
         <br />
         A sophmore pursuing Bachelors in Computer Engineering with a passion for
         <br />
@@ -20,7 +20,7 @@ const about = () => {
         In addition to coding and learning new tech, I love stories and
         music♫(Bob Dylan❤️).
         <br />
-        If any of these things interest you too, I'd love to chat!
+        If any of these things interest you too, I&apos;d love to chat!
       </p>
     </div>
   );

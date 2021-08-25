@@ -6,8 +6,8 @@ const About = () => {
   return (
     <>
       <div className={aboutStyles.about}>
-        <p>
-          <h1>Hey👋 ,I'm Prabin!</h1>
+        <div>
+          <h1>Hey👋 ,I&apos; Prabin!</h1>
           <br />
           A sophmore pursuing Bachelors in Computer Engineering with a passion
           for
@@ -25,9 +25,8 @@ const About = () => {
           stories and music♫(Bob Dylan❤️).
           <br />
           <br />
-          If any of these things interests you too, I'd love to chat!
-        </p>
-
+          If any of these things interests you too, I&apos;d love to chat!
+        </div>
         <Image
           className={aboutStyles.img}
           src="/../public/assets/prabinphoto1.jpg"

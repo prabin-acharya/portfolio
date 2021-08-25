@@ -10,14 +10,8 @@ export default function Home() {
         <title>Prabin Acharya</title>
       </Head>
       <About />
-      <Blogs />
+      {/* <Blogs /> */}
       <Projects />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
       <br />
       <br />
       <br />

@@ -5,7 +5,7 @@ import projectStyles from "../styles/Project.module.css";
 
 const Project = ({ project, align }) => {
   return (
-    <Link href="https://prabin-acharya.github.io/weather/">
+    <Link href={project.link}>
       <div className={projectStyles.project}>
         {align == "left" && (
           <Image
@@ -22,7 +22,7 @@ const Project = ({ project, align }) => {
             <h2>{project.title}</h2>
             {project.description}
           </p>
-          https://prabin-acharya.github.io/weather/
+          {project.link}
         </div>
 
         {align == "right" && (
